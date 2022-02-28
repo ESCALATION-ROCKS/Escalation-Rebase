@@ -1,0 +1,8 @@
+#ifndef MODPACK_ESCAL1984
+#define MODPACK_ESCAL1984
+// BEGIN INCLUDE
+#include "_defines.dm"
+#include "_escalation.dm"
+#include "datums/languages.dm"
+#endif
+// END_INCLUDE
